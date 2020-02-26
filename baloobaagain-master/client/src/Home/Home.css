@@ -1,0 +1,12 @@
+#genreDiv {
+    padding-top: 2em;
+    background-color: #F7F5EF;
+    display: flex;
+    flex-direction: row;
+    min-height: 100vh;
+}
+
+.row {
+    margin-left:  0px;
+    margin-right: 0px;
+}
