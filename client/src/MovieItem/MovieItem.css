@@ -1,0 +1,11 @@
+.col-md-2{
+	box-sizing: border-box;
+	border: green;
+}
+
+.movieImage{
+	width: 15vw;
+}
+.flexbox{
+    display:flex;
+}

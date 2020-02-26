@@ -1,0 +1,17 @@
+#smallFacts {
+    margin-left: 1em;
+}
+
+.summaryDiv {
+    display: flex-wrap;
+    width: 25em;
+    text-align: justify;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+
+#movieDetailsContainer {
+    margin-left: 1em;
+    padding-right: 1em;
+    max-width: fit-content;
+}

@@ -1,0 +1,13 @@
+.Sidebar {
+    margin: 0px;
+    background-color: #1F1A38;
+    font-weight: bolder;
+    font-size: large;
+    padding-right: 0px;
+    padding-top: 3em;
+    height: auto;
+}
+
+a.nav-link {
+    color: white !important;
+}
